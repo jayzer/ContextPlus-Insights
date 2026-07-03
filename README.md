@@ -1,5 +1,5 @@
 # ContextPlus-Insights
-Lessons Going to Market with Reeve Tech LLC: ContextPlus Memory
+Lessons Going to Market with Reeve Tech LLC: ContextPlus Memory 
 
 A Co-Founder's note.  A blog-style reflection of the process of recruiting beta testers and winning over the first customers, executing that go-to-market strategy.
 
@@ -35,3 +35,4 @@ Many questions to answer.  Treat this as day 1.  Development Partners, get peopl
 -
 Jay Cameron
 Co-founder, Reeve Tech LLC: ContextPlus
+www.context-plus.com
