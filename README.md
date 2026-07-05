@@ -63,7 +63,7 @@ Action: Will get my advertising art skills ready and prepare a little one graphi
 
 ### **Contest Approach**
 Should we try to gain notoriety by winning a competition?  
-Action: Maybe. Finished an application to the ATEC Startup competition, and I think believe our pitch made it on time for the competition after getting nominated by the MIT Alumni Club of Japan so that could be a good sign if we are seen and recognized in the highly competitive field. Perhaps entering something in the Midwest, our main location, might be good as well. Plus side: grant money can be used to complete our GPU build out and defray other costs.
+Action: Maybe. Finished an application to the ATEC Startup competition, and I believe our pitch made it on time for the competition after getting nominated by the MIT Alumni Club of Japan so that could be a good sign if we are seen and recognized in the highly competitive field. Perhaps entering something in the Midwest, our main location, might be good as well. Plus side: grant money can be used to complete our GPU build out and defray other costs.
 
 ---
 
