@@ -39,30 +39,47 @@ www.context-plus.com
 
 ---
 
-## Part #2 - Starting with friends, and Expanding the Claude Code Network, Thinking Space
+## Part #2 — Starting with Friends, and Expanding the Claude Code Network, Thinking Space
 
-This is my real thinking space. 
+This is my real thinking space.
 
-How many immediate friends did I have that use Claude Code? Well it seems this is somehow not the answer.  Even though Claude Code is the most established of the environments for AI coding now, not everyone uses it.  The real plan has to be outreach to people who are mainly creating in our chosen Addressable Market space.  
+How many immediate friends did I have that use Claude Code? Well it seems this is somehow not the answer. Even though Claude Code is the most established of the environments for AI coding now, not everyone uses it. The real plan has to be outreach to people who are mainly creating in our chosen Addressable Market space.
 
-I need to do some research on where the Claude Coders exist in a reachable way, so the real questions, and initial approaches to check this out will be: 
+I need to do some research on where the Claude Coders exist in a reachable way, so the real questions, and initial approaches to check this out will be:
 
-**Anthropic Approach**
-Are there Anthropic communities where people invite friends to check out new apps?    Action: I am on this research. 
+---
 
-**Linked-In Approach**
-Does linked in have Anthropic dev communities where people talk about their startups and new apps?   Action: Will get my advertising art skills ready and prepare a little one graphic flyer with a link and slogan: Limited Beta Tester Period: ContextPlus. 
+### **Anthropic Approach**
+Are there Anthropic communities where people invite friends to check out new apps?  
+Action: I am on this research.
 
-**Contest Approach**
-Should we try to gain notoriety by winning a competition?  Action: Maybe.  Finished an application to the ATEC Startup competition, and I think believe our pitch  made it on time for the competition after getting nominated by the MIT Alumni Club of Japan so that could be a good sign if we are seen and recognized in the highly competitive field.  Perhaps entering something in the Midwest, our main location, might be good as well.  Plus side: grant money can be used to complete our GPU build out and defray other costs.
+---
 
-**Niche Startup Networks**
-Should we start letting our audience know about the product on HN, Reddit, Lobsters?  Action: Slowly getting the posts out for organic growth.  I don't know anyone on Lobste.rs they have an invite only process. 
+### **Linked-In Approach**
+Does linked in have Anthropic dev communities where people talk about their startups and new apps?  
+Action: Will get my advertising art skills ready and prepare a little one graphic flyer with a link and slogan: Limited Beta Tester Period: ContextPlus.
 
-**It's 2026 so: Youtube Vibe Coders Approach**
-Are vibe coders a good source of potential testers?  Action:  I can imagine they might test our app live while filming which could be cool.  I have contacted one potential vibe coder and checking out some Claude Code Youtube channels to do the ground work.
+---
 
-So that's so far it.  Scrutinizing this approach a bit - is it scalable? Maybe no.  How do we scale it, maybe get the interested potential users (early signups and dev tester signups) in one email list and just email the list periodically with updates.  To me that is scaling.  
+### **Contest Approach**
+Should we try to gain notoriety by winning a competition?  
+Action: Maybe. Finished an application to the ATEC Startup competition, and I think believe our pitch made it on time for the competition after getting nominated by the MIT Alumni Club of Japan so that could be a good sign if we are seen and recognized in the highly competitive field. Perhaps entering something in the Midwest, our main location, might be good as well. Plus side: grant money can be used to complete our GPU build out and defray other costs.
+
+---
+
+### **Niche Startup Networks**
+Should we start letting our audience know about the product on HN, Reddit, Lobsters?  
+Action: Slowly getting the posts out for organic growth. I don't know anyone on Lobste.rs they have an invite only process.
+
+---
+
+### **It's 2026 so: Youtube Vibe Coders Approach**
+Are vibe coders a good source of potential testers?  
+Action: I can imagine they might test our app live while filming which could be cool. I have contacted one potential vibe coder and checking out some Claude Code Youtube channels to do the ground work.
+
+---
+
+So that's so far it. Scrutinizing this approach a bit — is it scalable? Maybe no. How do we scale it, maybe get the interested potential users (early signups and dev tester signups) in one email list and just email the list periodically with updates. To me that is scaling.
 
 In my next entries let's track how these approaches actually worked.
 
