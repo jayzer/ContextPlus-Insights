@@ -84,9 +84,11 @@ So that's so far it. Scrutinizing this approach a bit — is it scalable? Maybe 
 In my next entries let's track how these approaches actually worked.
 
 
-## Part #3 — Trying a few things.
+## Part #3 — Reddit is the First Semi-Success to get some community feedback.  
 
-Startup Networks.  So far the Reddit communities have been the most useful for a new start.  Lobste.rs is not really the best target the discussions are not focused on startups that build AI tools.  Reddit was pretty quick to respond in terms of viewership, but not much in terms of the design partners from those.  
+Many viewers on our project after just a couple of posts, so I could see this turning into users, as they would have been reading it from that perspective.  There is some issue they have faced such as Claude Code deleting a database silently, and memory can solve it.  A vibe coder has some fun project that keeps writing code, and I offer our memory product to enhance that progress with deep, self updating memory. 
+
+Startup Networks.  So far the Reddit communities have been the most useful for a new start.  Reddit was pretty quick to respond in terms of viewership, but not much in terms of the design partners from those.  Of the other social areas the hackernews one looks promising still, though getting enough points to make a Show HN seems tough for some reason, not sure why. 
 
 Vibe Coders are definitely an interesting route too though.  I am thinking of combining the two approaches, there is a vibe coding community in Reddit that could be a good audiene for the tool.  Another plus of using Reddit for a while is that relevant entries get surfaced to the top, so recently I have been seeing very interesting posts regarding AI tools that could be useful, especially open source ones, just browsing Reddit.  Props to that scoring mechanism. 
 
