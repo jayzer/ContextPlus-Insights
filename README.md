@@ -77,9 +77,21 @@ Action: Slowly getting the posts out for organic growth. I don't know anyone on 
 Are vibe coders a good source of potential testers?  
 Action: I can imagine they might test our app live while filming which could be cool. I have contacted one potential vibe coder and checking out some Claude Code Youtube channels to do the ground work.
 
----
+--
 
 So that's so far it. Scrutinizing this approach a bit — is it scalable? Maybe no. How do we scale it, maybe get the interested potential users (early signups and dev tester signups) in one email list and just email the list periodically with updates. To me that is scaling.
 
 In my next entries let's track how these approaches actually worked.
+
+
+## Part #3 — Trying a few things.
+
+Startup Networks.  So far the Reddit communities have been the most useful for a new start.  Lobste.rs is not really the best target the discussions are not focused on startups that build AI tools.  Reddit was pretty quick to respond in terms of viewership, but not much in terms of the design partners from those.  
+
+Vibe Coders are definitely an interesting route too though.  I am thinking of combining the two approaches, there is a vibe coding community in Reddit that could be a good audiene for the tool.  Another plus of using Reddit for a while is that relevant entries get surfaced to the top, so recently I have been seeing very interesting posts regarding AI tools that could be useful, especially open source ones, just browsing Reddit.  Props to that scoring mechanism. 
+
+Meanwhile I have made some progress when it comes to the plugin communities.  Claude Code essentially has several communities in its periphery relatd to plugin registration and searching, so I have been busy trying to make sure to get a handle on those as potential marketplaces, or at least communities in which it would be beneficial to update the profile of our product and properly connect any additional information to it.  
+
+Part #3 has been a bit of a learning phase, but now I have gained some Karma on Reddit so it should be easier to post some information and open up for questions.  I would be really excited if one of the Youtube Vibe Coders I now follow tried our tool.
+
 
